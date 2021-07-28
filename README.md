@@ -1,4 +1,4 @@
-# Cool Front-End Templates
+# fool Front-End Templates
 
 Will Add some cool templates in it.
 
